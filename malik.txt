@@ -1,2 +1,3 @@
 Name: Malik
 Location: Banglore
+Role: Admin
