@@ -2,3 +2,4 @@ Name: Saleem
 Loacation: Guntakal
 Role: Developer
 skills: Oracle, DevOps
+NP: 60 days
