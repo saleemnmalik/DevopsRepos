@@ -3,3 +3,4 @@ Loacation: Guntakal
 Role: Developer
 skills: Oracle, DevOps
 pf: 4000
+Company: CapGemini
