@@ -1,3 +1,4 @@
 Name: Saleem
 Loacation: Guntakal
 Role: Developer
+skills: Oracle, DevOps
