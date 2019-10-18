@@ -2,3 +2,4 @@ Name: Malik
 Location: Banglore
 Role: Admin
 Salary:600000 per anum
+Skills: Java and Devops
