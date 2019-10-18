@@ -3,3 +3,5 @@ Location: Banglore
 Role: Admin
 Salary:600000 per anum
 Experience: 4 years
+Skills: Java and Devops
+
