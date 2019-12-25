@@ -6,4 +6,8 @@ pf: 4000
 Company: CapGemini
 IT Company
 Native place Banglore
+<<<<<<< HEAD
 Marthahalli
+=======
+Shaik saleem Malik
+>>>>>>> 6cc84155a8dc01e720a22ec22768d307e7a81e89
